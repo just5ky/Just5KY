@@ -102,9 +102,9 @@ homelab  : 5+ systems · 90+ microservices · CIS hardened · self-hosted everyt
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake.gif">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake.gif">
 </picture>
 
 ---
