@@ -1,96 +1,135 @@
- <img align="center" src="https://github.com/Just5KY/Just5KY/blob/main/JustSKY.png" />
-<img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="300" align="right"/>
+<div align="center">
 
-### Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2BBC8A&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sky+%F0%9F%91%8B;Sr.+Security+Engineer+%40+Fortune+500;Detection+Engineering+%7C+Threat+Intel+%7C+IR;Breaking+things+to+make+them+safer" alt="Typing SVG" />
 
-![](https://visitcount.itsvg.in/api?id=just5ky&icon=0&color=12)
+<br/>
 
-## 🔧 Tools & Technologies
-#### Platforms
-![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-CentOS-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Android-005571?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white&color=2bbc8a)
-#### Languages & Syntax 
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+<p>Detection-focused security engineer · 5+ yrs building enterprise detection pipelines,<br/>
+leading incident response, and deploying honeypots that actually catch threats.</p>
 
-#### SIEM and Logging
-![](https://img.shields.io/badge/Grafana-005571?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OpenSearch-005571?style=flat&logo=OpenSearch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Graylog-005571?style=flat&logo=graylog&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SumoLogic-005571?style=flat&logo=sumologic&logoColor=white&color=2bbc8a)
+<p>
+  <a href="https://justsky.in"><img src="https://img.shields.io/badge/justsky.in-2bbc8a?style=flat&logo=firefox&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/aakash-sahu"><img src="https://img.shields.io/badge/LinkedIn-2bbc8a?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:hello@justsky.in"><img src="https://img.shields.io/badge/hello%40justsky.in-2bbc8a?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
-#### Endpoint
-![](https://img.shields.io/badge/Crowdstrike-005571?style=flat&logo=falcon&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Umbrella-005571?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+</div>
 
-#### Virtualization
-![](https://img.shields.io/badge/VMWare-005571?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Proxmox-005571?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Virtualbox-005571?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a)
+---
 
-#### Misc
-![](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Discord-005571?style=flat&logo=discord&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Jira-005571?style=flat&logo=jira&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Confluence-005571?style=flat&logo=confluence&logoColor=white&color=2bbc8a)
-****
+## `whoami`
+
+```yaml
+role     : Senior Security Engineer (Cyber Defense)
+exp      : 5+ years
+focus    :
+  - Detection Engineering & SIEM tuning
+  - Threat Intelligence (Tines automation · API integrations)
+  - Incident Response — MTTR < 60 min across 1000+ alerts/month
+  - Honeypot & deception infrastructure
+  - Agentic AI for detection engineering (LLM-assisted rule authoring)
+homelab  : 5+ systems · 90+ microservices · CIS hardened · self-hosted everything
+```
+
+---
+
+## Tech Arsenal
+
+**Detection & SIEM**
+
+![CrowdStrike NG-SIEM](https://img.shields.io/badge/CrowdStrike%20NG--SIEM-informational?style=flat&logo=crowdstrike&logoColor=white&color=2bbc8a)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![Cribl](https://img.shields.io/badge/Cribl-informational?style=flat&logoColor=white&color=2bbc8a)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-informational?style=flat&logo=opensearch&logoColor=white&color=2bbc8a)
+![Graylog](https://img.shields.io/badge/Graylog-informational?style=flat&logo=graylog&logoColor=white&color=2bbc8a)
+![SumoLogic](https://img.shields.io/badge/SumoLogic-informational?style=flat&logo=sumologic&logoColor=white&color=2bbc8a)
+![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
+![Logstash](https://img.shields.io/badge/Logstash-informational?style=flat&logo=logstash&logoColor=white&color=2bbc8a)
+![Kibana](https://img.shields.io/badge/Kibana-informational?style=flat&logo=kibana&logoColor=white&color=2bbc8a)
+
+**Endpoint · Network · Identity**
+
+![CrowdStrike Falcon](https://img.shields.io/badge/CrowdStrike%20Falcon-informational?style=flat&logo=crowdstrike&logoColor=white&color=2bbc8a)
+![Palo Alto NGFW](https://img.shields.io/badge/Palo%20Alto%20NGFW-informational?style=flat&logo=paloaltonetworks&logoColor=white&color=2bbc8a)
+![Zscaler ZIA/ZPA](https://img.shields.io/badge/Zscaler%20ZIA%2FZPA-informational?style=flat&logo=zscaler&logoColor=white&color=2bbc8a)
+![Fortinet](https://img.shields.io/badge/Fortinet-informational?style=flat&logo=fortinet&logoColor=white&color=2bbc8a)
+![Cisco Umbrella](https://img.shields.io/badge/Cisco%20Umbrella-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+![Okta](https://img.shields.io/badge/Okta-informational?style=flat&logo=okta&logoColor=white&color=2bbc8a)
+![Proofpoint](https://img.shields.io/badge/Proofpoint-informational?style=flat&logoColor=white&color=2bbc8a)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![GCP](https://img.shields.io/badge/GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Proxmox](https://img.shields.io/badge/Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
+![Wiz](https://img.shields.io/badge/Wiz-informational?style=flat&logoColor=white&color=2bbc8a)
+![Tenable](https://img.shields.io/badge/Tenable-informational?style=flat&logoColor=white&color=2bbc8a)
+
+**Scripting & Automation**
+
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Bash](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
+![PowerShell](https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+![Ansible](https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
+![Tines](https://img.shields.io/badge/Tines-informational?style=flat&logoColor=white&color=2bbc8a)
+
+**Frameworks & Compliance**
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-informational?style=flat&logoColor=white&color=2bbc8a)
+![NIST CSF 2.0](https://img.shields.io/badge/NIST%20CSF%202.0-informational?style=flat&logoColor=white&color=2bbc8a)
+![PCI-DSS 4.0](https://img.shields.io/badge/PCI--DSS%204.0-informational?style=flat&logoColor=white&color=2bbc8a)
+![ISO 27001/2](https://img.shields.io/badge/ISO%2027001%2F2-informational?style=flat&logoColor=white&color=2bbc8a)
+![NIST 800-53](https://img.shields.io/badge/NIST%20800--53-informational?style=flat&logoColor=white&color=2bbc8a)
+
+---
+
+## Featured Projects
+
+| | Project | Description |
+|--|---------|-------------|
+| 🍯 | [honeypots](https://github.com/Just5KY/honeypots) | Containerized deception infrastructure suite |
+| 🕷️ | [spidertrap](https://github.com/Just5KY/spidertrap) | Python-based bot detection & fingerprinting |
+| 🪵 | [log4pot](https://github.com/Just5KY/log4pot) | Log4Shell (CVE-2021-44228) honeypot |
+| 🌐 | [wordpot-docker](https://github.com/Just5KY/wordpot-docker) | WordPress honeypot container |
+| 🥧 | [SkyPi](https://github.com/Just5KY/SkyPi) | Raspberry Pi self-hosting infrastructure |
+| ⚙️ | [.dotfiles](https://github.com/Just5KY/.dotfiles) | CIS-hardened system configs |
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Just5KY/Just5KY/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <details>
-<summary>&#x1f4c8; GitHub Stats</summary>
-<a href="https://github.com/Just5KY/Just5KY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just5KY&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
+<summary>📈 GitHub Stats</summary>
+<br/>
+
+<a href="https://github.com/Just5KY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just5KY&show_icons=true&count_private=true&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&line_height=27" />
 </a>
-<a href="https://github.com/Just5KY/Just5KY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just5KY&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sky's GitHub Stats" />
+<a href="https://github.com/Just5KY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just5KY&hide=java,html,tex&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&hide_border=true" />
 </a>
-<img align="center" src=https://github-profile-trophy.vercel.app/?username=just5ky&theme=radical&no-frame=false&no-bg=true&margin-w=4/>
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=just5ky&theme=tokyonight&hide_border=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&)<br/>
+
+<br/><br/>
+
+![Streak](https://streak-stats.demolab.com/?user=just5ky&theme=tokyonight&hide_border=true&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a)
+
+<br/>
+
 </details>
-<details>
-<summary> Repos</summary>
-<a href="https://github.com/Just5KY/SkyPi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=SkyPi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
-<a href="https://github.com/Just5KY/honeypots">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=honeypots&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+---
 
-<a href="https://github.com/Just5KY/spidertrap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=spidertrap&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<a href="https://github.com/Just5KY/wordpot-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=wordpot-docker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<a href="https://github.com/Just5KY/log4pot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=log4pot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-
-<a href="https://github.com/Just5KY/scalyr-tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=scalyr-tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-  
- <a href="https://github.com/Just5KY/.dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=.dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-
-<a href="https://github.com/Just5KY/the-book-of-secret-knowledge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=the-book-of-secret-knowledge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-</details>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="512px"/>
-
-<img src="https://count.getloli.com/get/@:just5ky?theme=asoul" />
+<div align="center">
+<sub>Detection engineering · Threat intelligence · Incident response · Deception tech</sub>
+</div>
